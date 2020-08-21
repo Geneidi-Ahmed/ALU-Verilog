@@ -24,7 +24,7 @@ Here's a table of opcodes used:
 
 ### Push Buttons Debouncing
 
-The Algorthim used in debouncing the mechinchal switches is reading the switches for 10 times and the descion is only taken after 10 consecutive successful readings by using the non blocking assignment.
+The Algorthim used in debouncing the mechinchal push buttons is reading the push buttons for 10 times and the descion is only taken after 10 consecutive successful readings by using the non blocking assignment.
 
 Evaluating RHS first and hence all 10 bits are ones after 10 clk cycles --> input is stable
 
