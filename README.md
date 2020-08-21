@@ -3,7 +3,7 @@ An implementation of a simple ALU using Verilog
 ### Project Block Diagram
 ALU is an arithmetic logic unit. It has limited number of instructions to perform it executes six instructions, and takes two operands 8-bit width.
 This project was implemented on Basys 2 Spartan-3E FPGA interfacing with: 
-- Swithes
+- Switches
 - Push Buttons
 - Seven Segments
 - LEDs
